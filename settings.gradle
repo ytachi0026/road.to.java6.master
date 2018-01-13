@@ -1,0 +1,4 @@
+rootProject.name = 'road.to.java6.master'
+include 'ocpjp6'
+include 'thiking.in.java.4'
+
